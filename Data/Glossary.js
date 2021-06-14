@@ -1,0 +1,1 @@
+define({numchunks:1,prefix:'Glossary_Chunk',terms:[{t:'Bernini',c:0},{t:'feedback',c:0},{t:'Impressionism',c:0},{t:'pietà',s:'pieta',c:0}]});

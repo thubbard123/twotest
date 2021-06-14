@@ -1,0 +1,1 @@
+define({'/Content/style class/1.htm':{i:[1],t:['1'],b:['']},'/Content/style class/4.htm':{i:[2],t:['4'],b:['']},'___':{i:[0],t:['New Book 1'],b:['']}});
